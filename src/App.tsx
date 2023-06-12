@@ -7,8 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-         <button style={{width: 250, padding: 20, backgroundColor:'#E63A6A', border:"none",color:"white",fontWeight:'bold',borderRadius:10, fontSize:20}}>
-           Main button
+         <button style={{width: 250, padding: 20, backgroundColor:'#00cd6a', border:"none",color:"white",fontWeight:'bold',borderRadius:10, fontSize:20}}>
+           Experiment
          </button>
       </header>
     </div>
