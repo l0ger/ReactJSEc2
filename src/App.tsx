@@ -7,18 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-        This is your asshold kamran, pushed by github action. 
-        I love your ass :)
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+         <button style={{width: 250, padding: 20, backgroundColor:'#E63A6A', border:"none",color:"white",fontWeight:'bold',borderRadius:10, fontSize:20}}>
+           Main button
+         </button>
       </header>
     </div>
   );
